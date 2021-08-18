@@ -1,0 +1,99 @@
+header h2 {
+    background-color: #EEE;
+    color: black;
+    font-size: 25px;
+    direction: rtl;
+    text-align: center;
+    padding: 10px;
+    word-spacing: 7px;
+}
+figure {
+    background-color: white;
+    text-align: center;
+}
+figure img {
+    width: 250px ;
+    height: 200px ;
+    margin: 0px ;
+}
+.rol{
+    background-color: rgb(88, 62, 206);
+    color: white ;
+    font-size: 24px;
+    text-align: center;
+    padding: 5px ;
+    word-spacing: 7px;
+}
+form {
+    background-image : url(../imgs/Logo.png);
+    text-align: center ;
+    margin: 5px ;
+    width: 500px ;
+    margin: auto  ;
+    display: block;
+}
+.user ,
+.user label ,
+.pass ,
+.pass label {
+    margin: 10px ;
+    padding: 10px ; 
+    
+}
+.user input ,
+.pass input {
+    border: 1px #c1c1c1 solid ;
+    width: 200px ;
+    height: 50px ;
+    text-align: center ;
+    color:black;
+    font-size: 18px;
+    font-weight: bold;
+    margin:0 auto ;
+}
+.user label ,
+.pass label {
+    margin: auto ;
+    background-color: rgb(23, 119, 66);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px ;
+    display: inline-block ;
+    width: 150px ;
+    height: 30px ;
+    border: 1px #c1c1c1 solid ;
+    border-radius: 10px ;
+}
+button {
+    background-color: blue ;
+    font-size: 30px;
+    font-weight: bold;
+    width: 300px ;
+    height: 70px ;
+    padding: 5px ;
+    margin: 10px ;
+    border-radius: 10px ;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.692);
+    color: white ;
+    height: 50px ;
+    text-align: center ;
+    font-size: 30px ;
+    margin: 2px 10px 0 ;
+    display: flex ;
+    direction: rtl;
+    padding: 10px ;
+}
+a {
+    padding: 1px 5px ;
+    margin: 1px 20px ;
+    text-decoration: none ;
+}
+a img {
+    width: 50x ;
+    height: 30px ;
+}
+footer p {
+    margin: 1px 100px 1px 300px ;
+}
